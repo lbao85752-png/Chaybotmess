@@ -3742,23 +3742,23 @@ l_ImageButton_0.MouseButton1Click:Connect(function()
     end
 end)
 local v484 = v466:MakeTab({"Th\195\180ng Tin | Info", "info"})
-local v485 = v466:MakeTab({"Farming", "home"})
-local v486 = v466:MakeTab({"Auto Fishing", "rbxassetid://127664059821666"})
-local v487 = v466:MakeTab({"Quest | Items", "swords"})
+local v485 = v466:MakeTab({"Phần Chính", "home"})
+local v486 = v466:MakeTab({"Tự Động Câu Cá", "rbxassetid://127664059821666"})
+local v487 = v466:MakeTab({"Nhiệm Vụ | Items", "swords"})
 local v488 = v466:MakeTab({"Volcano Dojo", "cake"})
-local v489 = v466:MakeTab({"Sea Event", "waves"})
-local v490 = v466:MakeTab({"Race V4", "crown"})
-local v491 = v466:MakeTab({"Raid Fruits", "cherry"})
-local v492 = v466:MakeTab({"Fruits | Check Stock", "apple"})
-local v493 = v466:MakeTab({"Teleport", "locate"})
+local v489 = v466:MakeTab({"Sự Kiện Biển", "waves"})
+local v490 = v466:MakeTab({"Tộc V4", "crown"})
+local v491 = v466:MakeTab({"Tập Kích", "cherry"})
+local v492 = v466:MakeTab({"Trái cây | Kiểm tra hàng tồn kho", "apple"})
+local v493 = v466:MakeTab({"Dịch Chuyển", "locate"})
 local v494 = v466:MakeTab({"PvP,Player", "user"})
-local v495 = v466:MakeTab({"Shop", "shoppingCart"})
-local v496 = v466:MakeTab({"Settings", "settings"})
+local v495 = v466:MakeTab({"Cửa Hàng(lỗi)", "shoppingCart"})
+local v496 = v466:MakeTab({"Cài Đặt", "settings"})
 v484:AddDiscordInvite({
-    Name = "Tham Gia Discord",
-    Description = "Link Sever Discord",
+    Name = "Lọ Thánh Chí Tôn",
+    Description = "Học 8A2",
     Logo = "rbxassetid://110657725541747",
-    Invite = "https://discord.gg/kK2vMrUsQy"
+    Invite = "Siêu Béo"
 })
 v484:AddDiscordInvite({
     Name = "Tu\225\186\165n Anh (T\195\186nnAngg)",
