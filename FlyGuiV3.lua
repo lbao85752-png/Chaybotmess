@@ -11,7 +11,7 @@ local closebutton = Instance.new("TextButton")
 local mini = Instance.new("TextButton")
 local mini2 = Instance.new("TextButton")
 
-main.Name = "main"
+main.Name = "Chính"
 main.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 main.ResetOnSpawn = false
@@ -22,12 +22,12 @@ Frame.BorderColor3 = Color3.fromRGB(103, 221, 213)
 Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
 Frame.Size = UDim2.new(0, 190, 0, 57)
 
-up.Name = "up"
+up.Name = "Cút Lên"
 up.Parent = Frame
 up.BackgroundColor3 = Color3.fromRGB(79, 255, 152)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
-up.Text = "UP"
+up.Text = "Biến Xuống"
 up.TextColor3 = Color3.fromRGB(0, 0, 0)
 up.TextSize = 14.000
 
@@ -56,7 +56,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(242, 60, 255)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "TrongNguyen Fly"
+TextLabel.Text = "Lý Bảo 18cm"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
@@ -74,7 +74,7 @@ plus.TextScaled = true
 plus.TextSize = 14.000
 plus.TextWrapped = true
 
-speed.Name = "speed"
+speed.Name = "Tốc Độ"
 speed.Parent = Frame
 speed.BackgroundColor3 = Color3.fromRGB(255, 85, 0)
 speed.Position = UDim2.new(0.468421042, 0, 0.491228074, 0)
@@ -98,7 +98,7 @@ mine.TextScaled = true
 mine.TextSize = 14.000
 mine.TextWrapped = true
 
-closebutton.Name = "Close"
+closebutton.Name = "Đóng"
 closebutton.Parent = main.Frame
 closebutton.BackgroundColor3 = Color3.fromRGB(225, 25, 0)
 closebutton.Font = "SourceSans"
